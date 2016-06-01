@@ -1,0 +1,17 @@
+{
+  "name": "loadbalancer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "auto-config": "^0.1.0",
+    "cookie-parser": "~1.3.5",
+    "ejs": "~2.3.3",
+    "express": "~4.13.1",
+    "http-proxy": "^1.13.2",
+    "jethro": "^2.7.1",
+    "serve-favicon": "~2.3.0"
+  }
+}
